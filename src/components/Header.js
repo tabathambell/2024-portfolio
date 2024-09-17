@@ -14,7 +14,7 @@ export default function Header() {
       <Box sx={{ width: '100%' }}>
         <Typography
           className={Space.className}
-          sx={{ color: "white", fontSize: 28 }}
+          sx={{ color: "white", fontSize: 40 }}
         >
           TABATHA BELL
         </Typography>
